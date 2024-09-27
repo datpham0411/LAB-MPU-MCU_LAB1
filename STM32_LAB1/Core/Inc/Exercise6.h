@@ -14,8 +14,6 @@
 #include "Exercise3.h"
 #include "Exercise4.h"
 #include "Exercise5.h"
-#include "Exercise6.h"
-
 void Exercise6_Init();
 void Exercise6_Implement();
 void Set_Single_LED(GPIO_TypeDef *GPIO_Type, uint16_t Pin_Name, uint32_t Delay_Time);
