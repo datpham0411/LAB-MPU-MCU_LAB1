@@ -7,6 +7,7 @@
 
 #ifndef INC_EXERCISE2_H_
 #define INC_EXERCISE2_H_
+#include "Exercise1.h"
 #include "main.h"
 void Exercise2_Init();
 void Exercise2_Implement();
