@@ -14,7 +14,6 @@
 #include "Exercise3.h"
 #include "Exercise4.h"
 #include "Exercise5.h"
-#include "Exercise6.h"
 
 void Exercise6_Init();
 void Exercise6_Implement();
